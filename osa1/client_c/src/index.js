@@ -9,6 +9,9 @@ const Hello = ({ name, age }) => {
   // Vakiot ja muuttujat parempi tapa
   // const { name, age } = props;
 
+  // Vakiot ja muuttujat
+  // -----------> (props) tilalla
+
   // Syntymävuosi funktio
   // const bornYear = () => {
   //   const yearNow = new Date().getFullYear();
