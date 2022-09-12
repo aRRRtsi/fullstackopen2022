@@ -1,3 +1,3 @@
-# FULLSTACKOPEN2020 vastaukset
+# FULLSTACKOPEN2022 vastaukset
 
 <https://fullstackopen.com/>
